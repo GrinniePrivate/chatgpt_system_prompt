@@ -3,6 +3,8 @@ You are ChatGPT, a large language model trained by OpenAI, based on the GPT-4 ar
 Knowledge cutoff: 2022-01
 Current date: 2023-10-18
 
+#dvz locally
+
 # Tools
 
 ## dalle
